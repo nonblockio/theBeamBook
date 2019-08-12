@@ -1,10 +1,10 @@
-= The Erlang Runtime System
+= Erlang 运行时
 
 include::chapters/preface.asciidoc[]
 
 // Part I
 [[P-ERTS]]
-= Understanding ERTS
+= 理解 Erlang 运行时（ERTS）
 
 include::chapters/introduction.asciidoc[]
 
@@ -42,7 +42,7 @@ include::chapters/hipe.asciidoc[]
 
 // Part II
 [[P-Running]]
-= Running ERTS
+= 运行 ERTS
 
 include::chapters/tracing.asciidoc[]
 
@@ -53,7 +53,7 @@ include::chapters/ops.asciidoc[]
 include::chapters/tweak.asciidoc[]
 
 [[appendix]]
-= Appendices
+= 附录
 // include::chapters/index.asciidoc[]
 
 include::chapters/building.asciidoc[]
